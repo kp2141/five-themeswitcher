@@ -1,3 +1,7 @@
+I created this project while learning about the react hooks and cotext api.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
